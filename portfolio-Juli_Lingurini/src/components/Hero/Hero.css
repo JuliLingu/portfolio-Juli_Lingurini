@@ -1,0 +1,38 @@
+.hero-header {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+.hero-role {
+  font-size: 1.5rem;
+  color: var(--text-secondary);
+  font-weight: 400;
+}
+.hero-desc {
+  margin-top: 1.5rem;
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+}
+.btn-group {
+  margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
+}
+.cv-btn {
+  border: 1px solid #e5e7eb;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+.cv-btn:hover {
+  background-color: #f3f4f6;
+}
+.primary-btn {
+  background-color: var(--accent-color);
+  color: white;
+}
+.primary-btn:hover {
+  background-color: #333;
+  opacity: 1;
+}

@@ -1,0 +1,27 @@
+.contact-footer {
+  text-align: center;
+  margin-top: 8rem;
+}
+.contact-title {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.contact-desc {
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+}
+.contact-btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--accent-color);
+  color: var(--bg-color);
+  border-radius: 6px;
+  font-weight: 500;
+}
+.social-links {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  font-size: 1.5rem;
+}
